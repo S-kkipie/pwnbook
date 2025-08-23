@@ -1,0 +1,95 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Ejemplo",
+      "path": "Ejemplo.canvas"
+    },
+    {
+      "basename": "TryHackMe",
+      "path": "Platforms/TryHackMe.md"
+    },
+    {
+      "basename": "Hack The Box",
+      "path": "Platforms/Hack The Box.md"
+    },
+    {
+      "basename": "Control Panel",
+      "path": "Control Panel.md"
+    },
+    {
+      "basename": "MOC",
+      "path": "Notes/MOC.md"
+    },
+    {
+      "basename": "Alert",
+      "path": "Machines/Hack The Box/Alert.md"
+    },
+    {
+      "basename": "_concept",
+      "path": "00 - Recursos/Plantillas/_concept.md"
+    },
+    {
+      "basename": "_moc",
+      "path": "00 - Recursos/Plantillas/_moc.md"
+    },
+    {
+      "basename": "_journal",
+      "path": "00 - Recursos/Plantillas/_journal.md"
+    },
+    {
+      "basename": "_content",
+      "path": "00 - Recursos/Plantillas/_content.md"
+    },
+    {
+      "basename": "_code",
+      "path": "00 - Recursos/Plantillas/_code.md"
+    },
+    {
+      "basename": "_hack the box",
+      "path": "00 - Recursos/Plantillas/_writeup/_hack the box/_hack the box.md"
+    },
+    {
+      "basename": "htb-banner3",
+      "path": "00 - Recursos/Imágenes/htb-banner3.jpeg"
+    },
+    {
+      "basename": "htb-banner2",
+      "path": "00 - Recursos/Imágenes/htb-banner2.jpeg"
+    },
+    {
+      "basename": "Atomicidad.excalidraw",
+      "path": "00 - Recursos/Diagramas/Excalidraw/Atomicidad.excalidraw.md"
+    },
+    {
+      "basename": "_tryhackme",
+      "path": "00 - Recursos/Plantillas/_writeup/_tryhackme.md"
+    },
+    {
+      "basename": "_overthewire",
+      "path": "00 - Recursos/Plantillas/_writeup/_overthewire.md"
+    },
+    {
+      "basename": "Docker Seguro",
+      "path": "00 - Recursos/Libros/Docker Seguro.pdf"
+    },
+    {
+      "basename": "Internet a Obsidian.excalidraw",
+      "path": "00 - Recursos/Diagramas/Excalidraw/Internet a Obsidian.excalidraw.md"
+    },
+    {
+      "basename": "Internet.excalidraw",
+      "path": "00 - Recursos/Diagramas/Excalidraw/Internet.excalidraw.md"
+    },
+    {
+      "basename": "HTML Markdown Obsidian.excalidraw",
+      "path": "00 - Recursos/Diagramas/Excalidraw/HTML Markdown Obsidian.excalidraw.md"
+    },
+    {
+      "basename": "A quick guide to LaTeX",
+      "path": "00 - Recursos/Documentos/A quick guide to LaTeX.pdf"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null,
+  "openType": "tab"
+}

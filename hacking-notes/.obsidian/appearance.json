@@ -1,0 +1,14 @@
+{
+  "accentColor": "#3c982a",
+  "enabledCssSnippets": [
+    "supercharged-links-gen",
+    "center-images",
+    "custom-callouts",
+    "keyboard-keys",
+    "center-mermaids"
+  ],
+  "theme": "obsidian",
+  "cssTheme": "Blue Topaz",
+  "interfaceFontFamily": "",
+  "textFontFamily": ""
+}
