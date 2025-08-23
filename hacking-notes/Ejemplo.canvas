@@ -10,7 +10,7 @@
 		{"id":"f597a1b22008a191","type":"text","text":"# Aquí voy a escribir en el formato H1 de [[Markdown]]","x":680,"y":-1060,"width":300,"height":150,"color":"6"},
 		{"id":"18ce307ed108acf9","type":"link","url":"https://ctf.comunidadhackingetico.es","x":-900,"y":-1100,"width":960,"height":785,"color":"#3232ff"},
 		{"id":"a86b85f4faf4b7e9","type":"file","file":"00 - Recursos/Imágenes/Grafo del Directo de Obsidian.png","x":-420,"y":-200,"width":452,"height":402,"color":"6"},
-		{"id":"b1e0a5dca84d0bac","type":"file","file":"00 - Recursos/Libros/Docker Seguro.pdf","x":-880,"y":-200,"width":424,"height":600},
+		{"id":"b1e0a5dca84d0bac","type":"file","file":"Resources/Books/Docker Seguro.pdf","x":-880,"y":-200,"width":424,"height":600},
 		{"id":"f5ef2abe478fca6f","type":"text","text":"Imagen del grafo de [[Obsidian]]","x":-330,"y":340,"width":300,"height":60},
 		{"id":"7bd22d44d2079a5e","type":"text","text":"Esta pequeña nota de aquí no tiene mucho sentido, pero igualmente la he añadido para que se pueda observar un poco cómo funciona esto de los [[Obsidian Canvas|Canvas]].","x":200,"y":-1060,"width":240,"height":240,"color":"5"},
 		{"id":"33d9e34c2e0959e8","type":"text","text":"# Hola","x":460,"y":-1045,"width":200,"height":60},

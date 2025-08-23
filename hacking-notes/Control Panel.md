@@ -1,5 +1,5 @@
 # CTFs Activity
-## Last CTFs
+## Last Machines
 
 ```dataview
 TABLE WITHOUT ID
@@ -7,26 +7,26 @@ TABLE WITHOUT ID
 	plataforma AS Platform,
 	dateformat(date(file.mtime), "ccc dd, LLLL") AS Beginning
 FROM
-	"Writeups"
+	"Machines"
 LIMIT
 	5
 SORT
 	file.cday DESC
 ```
 
-## Pending CTFs 
+## Pending Machines
 
 ```dataview
 TABLE WITHOUT ID
-    plataforma AS Platform,
+    platform AS Platform,
 	rows.file.link AS Machine
 FROM
-    "Writeups" AND
+    "Machines" AND
 	!#Completed
 LIMIT
 	5
 GROUP BY
-    plataforma
+    platform
 SORT
 	file.ctime
 ```

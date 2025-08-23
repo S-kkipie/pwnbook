@@ -18,5 +18,6 @@
   "cmdr",
   "workspaces-plus",
   "simple-banner",
-  "obsidian-git"
+  "obsidian-git",
+  "share-note"
 ]

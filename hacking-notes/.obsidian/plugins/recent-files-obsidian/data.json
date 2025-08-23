@@ -1,95 +1,86 @@
 {
   "recentFiles": [
     {
+      "basename": "_reversing",
+      "path": "Resources/Templates/_writeup/_ctf/_reversing.md"
+    },
+    {
+      "basename": "_hack the box",
+      "path": "Resources/Templates/_writeup/_hack the box/_hack the box.md"
+    },
+    {
+      "basename": "A quick guide to LaTeX",
+      "path": "Resources/Docs/A quick guide to LaTeX.pdf"
+    },
+    {
       "basename": "Ejemplo",
       "path": "Ejemplo.canvas"
     },
     {
-      "basename": "TryHackMe",
-      "path": "Platforms/TryHackMe.md"
-    },
-    {
-      "basename": "Hack The Box",
-      "path": "Platforms/Hack The Box.md"
-    },
-    {
-      "basename": "Control Panel",
-      "path": "Control Panel.md"
-    },
-    {
-      "basename": "MOC",
-      "path": "Notes/MOC.md"
+      "basename": "_concept",
+      "path": "Resources/Templates/_concept.md"
     },
     {
       "basename": "Alert",
       "path": "Machines/Hack The Box/Alert.md"
     },
     {
-      "basename": "_concept",
-      "path": "00 - Recursos/Plantillas/_concept.md"
+      "basename": "MOC",
+      "path": "Notes/MOC.md"
+    },
+    {
+      "basename": "Control Panel",
+      "path": "Control Panel.md"
+    },
+    {
+      "basename": "Hack The Box",
+      "path": "Platforms/Hack The Box.md"
+    },
+    {
+      "basename": "TryHackMe",
+      "path": "Platforms/TryHackMe.md"
     },
     {
       "basename": "_moc",
-      "path": "00 - Recursos/Plantillas/_moc.md"
+      "path": "Resources/Templates/_moc.md"
     },
     {
       "basename": "_journal",
-      "path": "00 - Recursos/Plantillas/_journal.md"
+      "path": "Resources/Templates/_journal.md"
     },
     {
       "basename": "_content",
-      "path": "00 - Recursos/Plantillas/_content.md"
+      "path": "Resources/Templates/_content.md"
     },
     {
       "basename": "_code",
-      "path": "00 - Recursos/Plantillas/_code.md"
-    },
-    {
-      "basename": "_hack the box",
-      "path": "00 - Recursos/Plantillas/_writeup/_hack the box/_hack the box.md"
+      "path": "Resources/Templates/_code.md"
     },
     {
       "basename": "htb-banner3",
-      "path": "00 - Recursos/Imágenes/htb-banner3.jpeg"
+      "path": "Resources/Images/htb-banner3.jpeg"
     },
     {
       "basename": "htb-banner2",
-      "path": "00 - Recursos/Imágenes/htb-banner2.jpeg"
-    },
-    {
-      "basename": "Atomicidad.excalidraw",
-      "path": "00 - Recursos/Diagramas/Excalidraw/Atomicidad.excalidraw.md"
+      "path": "Resources/Images/htb-banner2.jpeg"
     },
     {
       "basename": "_tryhackme",
-      "path": "00 - Recursos/Plantillas/_writeup/_tryhackme.md"
+      "path": "Resources/Templates/_writeup/_tryhackme.md"
     },
     {
       "basename": "_overthewire",
-      "path": "00 - Recursos/Plantillas/_writeup/_overthewire.md"
+      "path": "Resources/Templates/_writeup/_overthewire.md"
     },
     {
       "basename": "Docker Seguro",
-      "path": "00 - Recursos/Libros/Docker Seguro.pdf"
-    },
-    {
-      "basename": "Internet a Obsidian.excalidraw",
-      "path": "00 - Recursos/Diagramas/Excalidraw/Internet a Obsidian.excalidraw.md"
-    },
-    {
-      "basename": "Internet.excalidraw",
-      "path": "00 - Recursos/Diagramas/Excalidraw/Internet.excalidraw.md"
-    },
-    {
-      "basename": "HTML Markdown Obsidian.excalidraw",
-      "path": "00 - Recursos/Diagramas/Excalidraw/HTML Markdown Obsidian.excalidraw.md"
-    },
-    {
-      "basename": "A quick guide to LaTeX",
-      "path": "00 - Recursos/Documentos/A quick guide to LaTeX.pdf"
+      "path": "Resources/Books/Docker Seguro.pdf"
     }
   ],
   "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false,
   "maxLength": null,
   "openType": "tab"
 }

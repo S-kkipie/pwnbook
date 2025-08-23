@@ -14,14 +14,14 @@ banner: "![[htb-banner3.jpeg]]"
 > 
 > ```dataview
 > TABLE WITHOUT ID
->     file.link AS Nota,
->     dificultad AS Dificultad,
->     dateformat(date(file.cday), "ccc dd, LLL. yyyy") AS Inicio
+>     file.link AS Note,
+>     difficulty AS Difficulty,
+>     dateformat(date(file.cday), "ccc dd, LLL. yyyy") AS Beginning
 > FROM
 > 	[[#]] AND
 > 	!"00 - Recursos"
 > WHERE
-> 	plataforma = [[Hack The Box]]
+> 	platform = [[Hack The Box]]
 > SORT
 > 	file.name ASC
 > ```
