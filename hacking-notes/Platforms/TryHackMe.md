@@ -2,6 +2,7 @@
 aliases:
   - THM
 tags:
+  - Platform
   - MOC
 web: https://tryhackme.com
 ---
@@ -21,7 +22,7 @@ web: https://tryhackme.com
 >     dateformat(date(file.cday), "ccc dd, LLL. yyyy") AS Inicio
 > FROM
 > 	[[#]] AND
->     !"00 - Recursos"
+>     !"Resources"
 > WHERE
 > 	plataforma = [[TryHackMe]]
 > SORT

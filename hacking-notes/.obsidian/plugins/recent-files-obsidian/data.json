@@ -1,32 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "_reversing",
-      "path": "Resources/Templates/_writeup/_ctf/_reversing.md"
-    },
-    {
-      "basename": "_hack the box",
-      "path": "Resources/Templates/_writeup/_hack the box/_hack the box.md"
-    },
-    {
-      "basename": "A quick guide to LaTeX",
-      "path": "Resources/Docs/A quick guide to LaTeX.pdf"
-    },
-    {
-      "basename": "Ejemplo",
-      "path": "Ejemplo.canvas"
+      "basename": "AI-ML Pen",
+      "path": "Certifications/AI-ML Pen.md"
     },
     {
       "basename": "_concept",
       "path": "Resources/Templates/_concept.md"
     },
     {
-      "basename": "Alert",
-      "path": "Machines/Hack The Box/Alert.md"
+      "basename": "CTF",
+      "path": "Notes/CTF.md"
     },
     {
-      "basename": "MOC",
-      "path": "Notes/MOC.md"
+      "basename": "2025-08-23",
+      "path": "Journal/2025-08-23.md"
+    },
+    {
+      "basename": "Ejemplo",
+      "path": "Ejemplo.canvas"
     },
     {
       "basename": "Control Panel",
@@ -41,12 +33,32 @@
       "path": "Platforms/TryHackMe.md"
     },
     {
-      "basename": "_moc",
-      "path": "Resources/Templates/_moc.md"
+      "basename": "Alert",
+      "path": "Machines/Hack The Box/Alert.md"
+    },
+    {
+      "basename": "MOC",
+      "path": "Notes/MOC.md"
     },
     {
       "basename": "_journal",
       "path": "Resources/Templates/_journal.md"
+    },
+    {
+      "basename": "_hack the box",
+      "path": "Resources/Templates/_writeup/_hack the box/_hack the box.md"
+    },
+    {
+      "basename": "_reversing",
+      "path": "Resources/Templates/_writeup/_ctf/_reversing.md"
+    },
+    {
+      "basename": "A quick guide to LaTeX",
+      "path": "Resources/Docs/A quick guide to LaTeX.pdf"
+    },
+    {
+      "basename": "_moc",
+      "path": "Resources/Templates/_moc.md"
     },
     {
       "basename": "_content",

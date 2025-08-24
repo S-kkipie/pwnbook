@@ -3,6 +3,7 @@ aliases:
   - <% tp.date.now("DD/MM/YYYY", 0, tp.file.title, "YYYY-MM-DD") %>
   - <% tp.date.now("DD-MM-YYYY", 0, tp.file.title, "YYYY-MM-DD") %>
   - <% tp.date.now("dddd DD, MMMM YYYY", 0, tp.file.title, "YYYY-MM-DD") %>
+banner: "![[anything_banner2.jpg]]"
 ---
 > #tutorial : Some text for today 
 

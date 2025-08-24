@@ -17,7 +17,7 @@
   "templater-obsidian",
   "cmdr",
   "workspaces-plus",
-  "simple-banner",
   "obsidian-git",
-  "share-note"
+  "share-note",
+  "simple-banner"
 ]

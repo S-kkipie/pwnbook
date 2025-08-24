@@ -2,6 +2,7 @@
 aliases:
   - HTB
 tags:
+  - Platform
   - MOC
 web: https://hackthebox.com
 banner: "![[htb-banner3.jpeg]]"
@@ -19,7 +20,7 @@ banner: "![[htb-banner3.jpeg]]"
 >     dateformat(date(file.cday), "ccc dd, LLL. yyyy") AS Beginning
 > FROM
 > 	[[#]] AND
-> 	!"00 - Recursos"
+> 	!"Resources"
 > WHERE
 > 	platform = [[Hack The Box]]
 > SORT

@@ -1,7 +1,7 @@
 ---
 tags:
-  - CTF
   - Incomplete
+  - Machine
 platform: "[[Hack The Box]]"
 web: https://app.hackthebox.com/machines/<% tp.file.title.replace(/ /g, '') %>
 difficulty:

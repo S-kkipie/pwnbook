@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "59f7df74c0b93243",
+        "id": "8bd79a224bea2287",
         "type": "tabs",
         "children": [
           {
-            "id": "603cc6166cb22d65",
+            "id": "51006f82ed1810fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Templates/_writeup/_ctf/_reversing.md",
-                "mode": "source",
+                "file": "Certifications/AI-ML Pen.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_reversing"
+              "title": "AI-ML Pen"
             }
           }
         ]
@@ -136,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Resources/Templates/_writeup/_ctf/_reversing.md",
+                "file": "Control Panel.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file:_ -file:{{ -file:INICIO.canvas -file:excalidraw ",
@@ -221,7 +221,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of _reversing"
+              "title": "Graph of Control Panel"
             }
           },
           {
@@ -290,7 +290,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 527.5
+    "width": 439.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -304,10 +304,8 @@
       "markdown-importer:Open format converter": false,
       "audio-recorder:Start/stop recording": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
       "homepage:Open homepage": false,
-      "workspaces-plus:Manage workspaces": false,
       "cmdr:Definir un concepto": false,
       "cmdr:Crear la nota diaria": false,
       "cmdr:Crear un contenido": false,
@@ -316,58 +314,60 @@
       "cmdr:Crear writeup": false,
       "cmdr:Hack The Box Machine": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "workspaces-plus:Manage workspaces": false,
+      "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
   "active": "d3a780e6a546bee9",
   "lastOpenFiles": [
+    "Certifications/AI-ML Pen.md",
+    "Resources/Templates/_concept.md",
+    "Notes/CTF.md",
+    "Journal/2025-08-23.md",
+    "Prompt Injection.md",
+    "Sensitive Information Disclosure.md",
+    "Over-reliance.md",
+    "Ejemplo.canvas",
+    "Obsidian Canvas.md",
+    "Control Panel.md",
+    "Certified AI/ML Pentester.md",
+    "Certified AI",
+    "Platforms/Hack The Box.md",
+    "Platforms/TryHackMe.md",
+    "Resources/Images/caimlpbanner.jpg",
+    "Resources/Images/caimlpbanner.jpg.crdownload",
+    "Resources/Images/cert-stamp-aiml-pro.png",
+    "C-AI/MLPen.md",
+    "C-AI",
+    "Certifications",
+    "Python.md",
+    "Machines/Hack The Box/Alert.md",
+    "Notes/MOC.md",
+    "Machines/Hack The Box/Hack.md",
+    "Machines/Hack The Box/Code.md",
+    "Resources/Templates/_journal.md",
+    "Resources/Images/anything_banner2.jpg",
+    "Resources/Images/anything_banner2.jpg.crdownload",
+    "Resources/Images/anything_banner",
+    "Resources/Images/anything_banner.crdownload",
     "Resources/Templates/_writeup/_hack the box/_hack the box.md",
     "Resources/Templates/_writeup/_ctf/_reversing.md",
     "Resources/Docs/A quick guide to LaTeX.pdf",
     "Resources/Templates/_writeup/_ctf",
-    "Ejemplo.canvas",
-    "Resources/Templates/_concept.md",
-    "Machines/Hack The Box/Alert.md",
-    "Notes/MOC.md",
     "Notes/HTB - ACADEMY",
-    "Untitled 1",
-    "Control Panel.md",
     "00 - Recursos/Diagramas/Excalidraw/ 2025-08-22 20.20.20.excalidraw.md",
-    "Platforms/Hack The Box.md",
     "Machines/Hack The Box/Alert1.md",
-    "Platforms/TryHackMe.md",
-    "CTF.md",
     "Scripts/h4_hash-cracker.md",
     "Journal/2023-10-14.md",
     "Tutorial.md",
-    "4k4m1m3.md",
-    "Notes/Process/Cracking.md",
-    "Notes/Process/CTF.md",
-    "Notes/Process/eCPPT v2.md",
-    "Notes/Process/WarCTF.md",
-    "Notes/Process/VulNyx.md",
-    "Notes/Process/VPN vs Proxy.md",
-    "Notes/Process/Escalada de Privilegios.md",
-    "Notes/Process/VPN.md",
-    "Notes/Process/ShellDredd.md",
-    "Notes/Process/Script.md",
-    "Notes/Process/Obsidian.md",
-    "Notas/Procesar",
-    "Notas",
     "00 - Recursos/Diagramas/Canvas/INICIO.canvas",
-    "Untitled.base",
-    "Platforms",
     "00 - Recursos/Imágenes/Concepto de VPN.png",
     "00 - Recursos/Imágenes/Carpetas.png",
-    "Machines/Try Hack Me",
-    "Machines/Hack The Box",
     "Resources/Images/htb-banner4.png",
     "Resources/Images/htb-banner3.jpeg",
     "Resources/Images/htb-banner2.jpeg",
     "00 - Recursos/Imágenes/Concepto de Base de Datos.png",
-    "00 - Recursos/Imágenes/qrcode2.png",
-    "00 - Recursos/Imágenes/PARA cocina.png",
-    "00 - Recursos/Imágenes/Grafo del Directo de Obsidian.png",
-    "00 - Recursos/Imágenes/Logo de CHEE.png"
+    "00 - Recursos/Imágenes/qrcode2.png"
   ]
 }

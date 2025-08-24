@@ -5,7 +5,7 @@
       "name": "Create a concept",
       "type": "Template",
       "command": true,
-      "templatePath": "00 - Recursos/Plantillas/_concept.md",
+      "templatePath": "Resources/Templates/_concept.md",
       "fileNameFormat": {
         "enabled": false,
         "format": ""
@@ -39,7 +39,7 @@
       "name": "Create content",
       "type": "Template",
       "command": true,
-      "templatePath": "00 - Recursos/Plantillas/_content.md",
+      "templatePath": "Resources/Teplates/_content.md",
       "fileNameFormat": {
         "enabled": false,
         "format": ""
@@ -75,7 +75,7 @@
       "name": "Create a MOC",
       "type": "Template",
       "command": true,
-      "templatePath": "00 - Recursos/Plantillas/_moc.md",
+      "templatePath": "Resources/Templates/_moc.md",
       "fileNameFormat": {
         "enabled": false,
         "format": ""
@@ -111,7 +111,7 @@
       "name": "Create a diary note",
       "type": "Template",
       "command": true,
-      "templatePath": "00 - Recursos/Plantillas/_journal.md",
+      "templatePath": "Resources/Templates/_journal.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "{{date}}"
@@ -147,7 +147,7 @@
       "name": "Hack The Box Machine",
       "type": "Template",
       "command": true,
-      "templatePath": "00 - Recursos/Plantillas/_writeup/_hack the box/_hack the box.md",
+      "templatePath": "Resources/Templates/_writeup/_hack the box/_hack the box.md",
       "fileNameFormat": {
         "enabled": false,
         "format": ""

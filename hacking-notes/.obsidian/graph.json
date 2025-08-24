@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "-path:\"00 - Recursos/Plantillas\"  ",
+  "collapse-filter": false,
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -8,31 +8,31 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#certificacion",
+      "query": "tag:#Cert",
       "color": {
         "a": 1,
-        "rgb": 38655
+        "rgb": 16711680
       }
     },
     {
-      "query": "tag:#concepto",
+      "query": "tag:#Concept",
       "color": {
         "a": 1,
         "rgb": 16743680
       }
     },
     {
-      "query": "tag:#herramienta",
+      "query": "tag:#Platform",
       "color": {
         "a": 1,
         "rgb": 65535
       }
     },
     {
-      "query": "tag:#lenguaje",
+      "query": "tag:#Machine",
       "color": {
         "a": 1,
-        "rgb": 65280
+        "rgb": 10481408
       }
     },
     {
@@ -46,21 +46,21 @@
       "query": "tag:#MOC",
       "color": {
         "a": 1,
-        "rgb": 16711680
+        "rgb": 38655
       }
     },
     {
-      "query": "path:\"03 - Personas\"",
+      "query": "tag:#Diary",
       "color": {
         "a": 1,
-        "rgb": 16756580
+        "rgb": 15597414
       }
     },
     {
-      "query": "path:\"04 - Código\"",
+      "query": "tag:#Script",
       "color": {
         "a": 1,
-        "rgb": 16776960
+        "rgb": 65280
       }
     }
   ],

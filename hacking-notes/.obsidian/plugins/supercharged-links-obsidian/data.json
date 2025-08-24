@@ -13,7 +13,7 @@
     {
       "type": "tag",
       "name": "",
-      "value": "certificacion",
+      "value": "Cert",
       "matchCaseSensitive": false,
       "match": "exact",
       "uid": "e5ad-4277",
@@ -25,7 +25,7 @@
     {
       "type": "tag",
       "name": "",
-      "value": "concepto",
+      "value": "Concept",
       "matchCaseSensitive": false,
       "match": "exact",
       "uid": "cee5-1bf6",
@@ -37,7 +37,7 @@
     {
       "type": "tag",
       "name": "",
-      "value": "herramienta",
+      "value": "Tool",
       "matchCaseSensitive": false,
       "match": "exact",
       "uid": "c990-d5ae",
@@ -101,6 +101,18 @@
       "matchCaseSensitive": false,
       "match": "contains",
       "uid": "9323-112a",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "tag",
+      "name": "",
+      "value": "Machine",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "a911-1f68",
       "selectText": true,
       "selectAppend": true,
       "selectPrepend": true,

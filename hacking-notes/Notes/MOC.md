@@ -5,7 +5,7 @@ aliases:
   - map of concepts
   - MOCs
 tags:
-  - concept
+  - Concept
 ---
 > [!INFO] MOC (_**M**ap **o**f **C**oncepts_)
 > Nota que sirve como un **centro de navegación** para un tema o conjunto de temas en particular.

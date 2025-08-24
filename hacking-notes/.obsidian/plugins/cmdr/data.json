@@ -2,7 +2,14 @@
   "confirmDeletion": false,
   "showAddCommand": true,
   "debug": false,
-  "editorMenu": [],
+  "editorMenu": [
+    {
+      "id": "app:show-debug-info",
+      "icon": "lucide-a-arrow-down",
+      "name": "Show debug info",
+      "mode": "any"
+    }
+  ],
   "fileMenu": [],
   "leftRibbon": [
     {

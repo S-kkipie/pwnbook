@@ -1,9 +1,10 @@
 ---
 aliases:
+  - Capture The Flag
 tags:
-  - Concept
+  - "#Concept"
 ---
-> [!INFO] <% tp.file.title %>
+> [!INFO] CTF
 > #tutorial : Description of the concept and information about itself
 ^definition
 

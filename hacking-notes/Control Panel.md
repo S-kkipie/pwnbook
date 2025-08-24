@@ -39,7 +39,7 @@ TABLE WITHOUT ID
     file.link AS Nota,
     length(file.inlinks) AS Conexiones
 FROM
-    !"00 - Recursos" AND
+    !"Resources" AND
     !#MOC
 LIMIT
 	10
@@ -55,7 +55,7 @@ TABLE WITHOUT ID
     length(file.outlinks) AS Connections,
     file.outlinks AS Outgoing
 FROM
-    !"00 - Recursos"
+    !"Resources"
 LIMIT
 	10
 SORT
@@ -70,7 +70,8 @@ TABLE WITHOUT ID
     file.link AS MOC,
     length(file.inlinks) AS Incoming
 FROM
-    #MOC 
+    #MOC and
+    !"Resources"
 LIMIT
 	10
 SORT

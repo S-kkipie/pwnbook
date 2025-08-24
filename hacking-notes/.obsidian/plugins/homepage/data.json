@@ -3,7 +3,7 @@
   "homepages": {
     "Main Homepage": {
       "value": "00 - Recursos/Diagramas/Canvas/INICIO.canvas",
-      "kind": "File",
+      "kind": "Graph view",
       "openOnStartup": true,
       "openMode": "Keep open notes",
       "manualOpenMode": "Keep open notes",
@@ -15,7 +15,8 @@
       "autoScroll": false,
       "pin": false,
       "commands": [],
-      "alwaysApply": false
+      "alwaysApply": false,
+      "hideReleaseNotes": false
     }
   },
   "separateMobile": false
