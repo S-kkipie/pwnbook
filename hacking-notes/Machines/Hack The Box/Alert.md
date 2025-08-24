@@ -1,12 +1,12 @@
 ---
 tags:
-  - Incomplete
   - Machine
 platform: "[[Hack The Box]]"
 web: https://app.hackthebox.com/machines/Alert
 difficulty:
 autor:
 banner: "![[htb-banner3.jpeg]]"
+status: Incomplete
 ---
 > [!INFO] Alert
 >  #tutorial : Machine description.

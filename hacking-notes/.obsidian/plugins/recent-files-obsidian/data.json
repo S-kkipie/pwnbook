@@ -1,52 +1,72 @@
 {
   "recentFiles": [
     {
-      "basename": "AI-ML Pen",
-      "path": "Certifications/AI-ML Pen.md"
-    },
-    {
-      "basename": "_concept",
-      "path": "Resources/Templates/_concept.md"
-    },
-    {
-      "basename": "CTF",
-      "path": "Notes/CTF.md"
-    },
-    {
-      "basename": "2025-08-23",
-      "path": "Journal/2025-08-23.md"
-    },
-    {
-      "basename": "Ejemplo",
-      "path": "Ejemplo.canvas"
-    },
-    {
-      "basename": "Control Panel",
-      "path": "Control Panel.md"
-    },
-    {
       "basename": "Hack The Box",
       "path": "Platforms/Hack The Box.md"
-    },
-    {
-      "basename": "TryHackMe",
-      "path": "Platforms/TryHackMe.md"
     },
     {
       "basename": "Alert",
       "path": "Machines/Hack The Box/Alert.md"
     },
     {
+      "basename": "_hack the box",
+      "path": "Resources/Templates/_writeup/_hack the box/_hack the box.md"
+    },
+    {
+      "basename": "_code",
+      "path": "Resources/Templates/_code.md"
+    },
+    {
+      "basename": "2025-08-24",
+      "path": "Journal/2025-08-24.md"
+    },
+    {
       "basename": "MOC",
       "path": "Notes/MOC.md"
+    },
+    {
+      "basename": "HTB Path",
+      "path": "Notes/HTB Path.md"
+    },
+    {
+      "basename": "HTB Module",
+      "path": "Notes/HTB Module.md"
+    },
+    {
+      "basename": "CTF",
+      "path": "Notes/CTF.md"
+    },
+    {
+      "basename": "AI-ML Pen",
+      "path": "Certifications/AI-ML Pen.md"
+    },
+    {
+      "basename": "TryHackMe",
+      "path": "Platforms/TryHackMe.md"
+    },
+    {
+      "basename": "Control Panel",
+      "path": "Control Panel.md"
+    },
+    {
+      "basename": "2025-08-23",
+      "path": "Journal/2025-08-23.md"
     },
     {
       "basename": "_journal",
       "path": "Resources/Templates/_journal.md"
     },
     {
-      "basename": "_hack the box",
-      "path": "Resources/Templates/_writeup/_hack the box/_hack the box.md"
+      "basename": "Exploit",
+      "path": "Notes/Exploit.md"
+    },
+    {
+      "basename": "_concept",
+      "path": "Resources/Templates/_concept.md"
+    },
+    {
+      "basename": "Ejemplo",
+      "path": "Ejemplo.canvas"
     },
     {
       "basename": "_reversing",
@@ -63,10 +83,6 @@
     {
       "basename": "_content",
       "path": "Resources/Templates/_content.md"
-    },
-    {
-      "basename": "_code",
-      "path": "Resources/Templates/_code.md"
     },
     {
       "basename": "htb-banner3",

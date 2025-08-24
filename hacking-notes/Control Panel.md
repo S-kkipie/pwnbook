@@ -31,6 +31,21 @@ SORT
 	file.ctime
 ```
 
+# Journal Resume
+```dataview
+TABLE WITHOUT ID
+    file.aliases[2] AS Nota,
+    description AS Description
+FROM
+    "Journal"
+LIMIT
+	10
+SORT
+    length(file.inlinks) DESC,
+    file.link ASC
+```
+
+
 # Notes Use
 
 ## Incoming notes

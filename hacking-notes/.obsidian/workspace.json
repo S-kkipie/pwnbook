@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8bd79a224bea2287",
+        "id": "3094c2afaed8190c",
         "type": "tabs",
         "children": [
           {
-            "id": "51006f82ed1810fa",
+            "id": "7837755c82e3fa24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Certifications/AI-ML Pen.md",
-                "mode": "preview",
+                "file": "Platforms/Hack The Box.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI-ML Pen"
+              "title": "Hack The Box"
             }
           }
         ]
@@ -31,11 +31,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d857192ff4a33a71",
+        "id": "a9951669ad01a0e4",
         "type": "tabs",
         "children": [
           {
-            "id": "6e1c2b14b3fe2b60",
+            "id": "6577f301ccd64f7e",
             "type": "leaf",
             "state": {
               "type": "quiet-outline",
@@ -136,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Control Panel.md",
+                "file": "Platforms/Hack The Box.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file:_ -file:{{ -file:INICIO.canvas -file:excalidraw ",
@@ -216,12 +216,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6666666666666667,
+                  "scale": 0.666666666666667,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Control Panel"
+              "title": "Graph of Hack The Box"
             }
           },
           {
@@ -274,26 +274,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "66aad35f03e1db7f",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 439.5
+    "width": 527.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "pexels-banner:🚩 Pixel Banner Menu": false,
       "obsidian-git:Open Git source control": false,
       "graph:Open graph view": false,
       "bases:Create new base": false,
@@ -306,35 +299,43 @@
       "workspaces:Manage workspace layouts": false,
       "templater-obsidian:Templater": false,
       "homepage:Open homepage": false,
+      "workspaces-plus:Manage workspaces": false,
       "cmdr:Definir un concepto": false,
       "cmdr:Crear la nota diaria": false,
       "cmdr:Crear un contenido": false,
       "cmdr:Crear un MOC": false,
       "cmdr:Añadir un código": false,
       "cmdr:Crear writeup": false,
-      "cmdr:Hack The Box Machine": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "workspaces-plus:Manage workspaces": false,
-      "pexels-banner:🚩 Pixel Banner Menu": false
+      "cmdr:Hack The Box Machine": false
     }
   },
   "active": "d3a780e6a546bee9",
   "lastOpenFiles": [
-    "Certifications/AI-ML Pen.md",
-    "Resources/Templates/_concept.md",
+    "Platforms/Hack The Box.md",
+    "Machines/Hack The Box/Alert.md",
+    "Resources/Templates/_writeup/_hack the box/_hack the box.md",
+    "Resources/Templates/_code.md",
+    "Journal/2025-08-24.md",
+    "Notes/MOC.md",
+    "Notes/HTB Path.md",
+    "Notes/HTB Module.md",
     "Notes/CTF.md",
+    "Certifications/AI-ML Pen.md",
+    "Platforms/TryHackMe.md",
+    "Control Panel.md",
     "Journal/2025-08-23.md",
+    "Resources/Templates/_journal.md",
+    "Notes/Exploit.md",
+    "\n1.md",
+    "\n.md",
+    "Resources/Templates/_concept.md",
     "Prompt Injection.md",
     "Sensitive Information Disclosure.md",
     "Over-reliance.md",
     "Ejemplo.canvas",
     "Obsidian Canvas.md",
-    "Control Panel.md",
     "Certified AI/ML Pentester.md",
     "Certified AI",
-    "Platforms/Hack The Box.md",
-    "Platforms/TryHackMe.md",
     "Resources/Images/caimlpbanner.jpg",
     "Resources/Images/caimlpbanner.jpg.crdownload",
     "Resources/Images/cert-stamp-aiml-pro.png",
@@ -342,25 +343,14 @@
     "C-AI",
     "Certifications",
     "Python.md",
-    "Machines/Hack The Box/Alert.md",
-    "Notes/MOC.md",
     "Machines/Hack The Box/Hack.md",
-    "Machines/Hack The Box/Code.md",
-    "Resources/Templates/_journal.md",
     "Resources/Images/anything_banner2.jpg",
     "Resources/Images/anything_banner2.jpg.crdownload",
     "Resources/Images/anything_banner",
     "Resources/Images/anything_banner.crdownload",
-    "Resources/Templates/_writeup/_hack the box/_hack the box.md",
-    "Resources/Templates/_writeup/_ctf/_reversing.md",
     "Resources/Docs/A quick guide to LaTeX.pdf",
     "Resources/Templates/_writeup/_ctf",
     "Notes/HTB - ACADEMY",
-    "00 - Recursos/Diagramas/Excalidraw/ 2025-08-22 20.20.20.excalidraw.md",
-    "Machines/Hack The Box/Alert1.md",
-    "Scripts/h4_hash-cracker.md",
-    "Journal/2023-10-14.md",
-    "Tutorial.md",
     "00 - Recursos/Diagramas/Canvas/INICIO.canvas",
     "00 - Recursos/Imágenes/Concepto de VPN.png",
     "00 - Recursos/Imágenes/Carpetas.png",

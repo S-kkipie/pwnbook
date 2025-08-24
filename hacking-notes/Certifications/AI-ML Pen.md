@@ -3,8 +3,8 @@ aliases:
   - Certified AI/ML Pentester
 tags:
   - "#Cert"
-  - Concept
   - TO-DO
+  - IA
 banner: "![[caimlpbanner.jpg]]"
 share_link: https://share.note.sx/i60vmzf9#tPfni8agsjMUmsL9x/4xW+XGJk7Kl67kDnDwhL7Uj9M
 share_updated: 2025-08-24T10:53:20-05:00

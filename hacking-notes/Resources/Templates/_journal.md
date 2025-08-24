@@ -20,3 +20,5 @@ banner: "![[anything_banner2.jpg]]"
 > SORT file.cday DESC
 > ```
 ^registry
+
+This note can be seen in [[Control Panel]].

@@ -7,7 +7,7 @@ tags:
 web: https://tryhackme.com
 ---
 > [!INFO] TryHackMe
-> Plataforma de entrenamiento en ciberseguridad mediante retos CTF.
+> Plataforma de entrenamiento en ciberseguridad mediante retos [[CTF]].
 > 
 > Se considera **una de las mejores plataformas para empezar**.
 ^descripcion
