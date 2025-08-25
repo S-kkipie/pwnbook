@@ -11,6 +11,7 @@ status: Incomplete
 
 > [!danger]- Associated Certs
 > - [[CREST CPSA CRT]]
+> - [[HTB CJCA|HTB Certified Junior Cybersecurity Associate]]
 ^faq
 
 > [!faq]- Associated Paths
@@ -37,7 +38,7 @@ status: Incomplete
 >
 
 ^summary
->[!tldr] Cheat Sheet
+>[!tldr]- Cheat Sheet
 ![[Linux_Fundamentals_Module_Cheat_Sheet.pdf]]
 
 # Sections

@@ -5,7 +5,7 @@ platform: "[[Hack The Box]]"
 web: https://app.hackthebox.com/machines/<% tp.file.title.replace(/ /g, '') %>
 difficulty:
 autor:
-banner: "![[htb-banner3.jpeg]]"
+banner: "![[htb-banner7.jpg]]"
 status: Incomplete
 ---
 > [!INFO] <% tp.file.title %>

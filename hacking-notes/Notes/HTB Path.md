@@ -2,7 +2,7 @@
 aliases:
 tags:
   - "#MOC"
-banner: "![[htb-banner3.jpeg]]"
+banner: "![[htb-banner7.jpg]]"
 ---
 > [!INFO] HTB Path  
 > Paths are made of [[HTB Module|Modules]], which are structured lessons that cover specific cybersecurity topics.  

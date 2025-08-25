@@ -5,7 +5,7 @@ tags:
 platform: "[[Hack The Box]]"
 difficulty:
 tier:
-banner: "![[htb-banner3.jpeg]]"
+banner: "![[htb-banner7.jpg]]"
 status: Incomplete
 ---
 

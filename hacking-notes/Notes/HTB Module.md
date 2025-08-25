@@ -2,7 +2,7 @@
 aliases:
 tags:
   - "#MOC"
-banner: "![[htb-banner3.jpeg]]"
+banner: "![[htb-banner7.jpg]]"
 ---
 > [!INFO] HTB Module 
 > Hack the box modules provides a lot of information and tutorials about hacking. 

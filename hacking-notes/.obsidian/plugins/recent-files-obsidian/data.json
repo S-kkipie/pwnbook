@@ -2,63 +2,71 @@
   "recentFiles": [
     {
       "basename": "Linux Fundamentals",
-      "path": "Notes/HTB - ACADEMY/Linux Fundamentals.md"
+      "path": "Notes/HTB - ACADEMY/Modules/Linux Fundamentals.md"
     },
     {
-      "basename": "_htb module",
-      "path": "Resources/Templates/_htb module.md"
-    },
-    {
-      "basename": "Alert",
-      "path": "Machines/Hack The Box/Alert.md"
-    },
-    {
-      "basename": "CREST CPSA CRT",
-      "path": "Certifications/CREST CPSA CRT.md"
-    },
-    {
-      "basename": "AI-ML Pen",
-      "path": "Certifications/AI-ML Pen.md"
-    },
-    {
-      "basename": "Ejemplo",
-      "path": "Ejemplo.canvas"
-    },
-    {
-      "basename": "_hack the box",
-      "path": "Resources/Templates/_writeup/_hack the box/_hack the box.md"
-    },
-    {
-      "basename": "HTB Certs",
-      "path": "Notes/HTB Certs.md"
+      "basename": "Junior Cybersecurity Analyst",
+      "path": "Notes/HTB - ACADEMY/Paths/Junior Cybersecurity Analyst.md"
     },
     {
       "basename": "HTB Path",
       "path": "Notes/HTB Path.md"
     },
     {
-      "basename": "HTB Module",
-      "path": "Notes/HTB Module.md"
+      "basename": "Control Panel",
+      "path": "Control Panel.md"
     },
     {
-      "basename": "Exploit",
-      "path": "Notes/Exploit.md"
+      "basename": "HTB CJCA",
+      "path": "Certifications/HTB CJCA.md"
+    },
+    {
+      "basename": "CREST CPSA CRT",
+      "path": "Certifications/CREST CPSA CRT.md"
     },
     {
       "basename": "CTF",
       "path": "Notes/CTF.md"
     },
     {
-      "basename": "MOC",
-      "path": "Notes/MOC.md"
-    },
-    {
       "basename": "Hack The Box",
       "path": "Platforms/Hack The Box.md"
     },
     {
-      "basename": "Control Panel",
-      "path": "Control Panel.md"
+      "basename": "Ejemplo",
+      "path": "Ejemplo.canvas"
+    },
+    {
+      "basename": "Exploit",
+      "path": "Notes/Exploit.md"
+    },
+    {
+      "basename": "HTB Module",
+      "path": "Notes/HTB Module.md"
+    },
+    {
+      "basename": "HTB Certs",
+      "path": "Notes/HTB Certs.md"
+    },
+    {
+      "basename": "_htb module",
+      "path": "Resources/Templates/_htb module.md"
+    },
+    {
+      "basename": "_hack the box",
+      "path": "Resources/Templates/_writeup/_hack the box/_hack the box.md"
+    },
+    {
+      "basename": "Alert",
+      "path": "Machines/Hack The Box/Alert.md"
+    },
+    {
+      "basename": "AI-ML Pen",
+      "path": "Certifications/AI-ML Pen.md"
+    },
+    {
+      "basename": "MOC",
+      "path": "Notes/MOC.md"
     },
     {
       "basename": "2025-08-23",

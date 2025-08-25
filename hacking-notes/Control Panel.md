@@ -80,8 +80,8 @@ SORT
 ```dataview
 TABLE WITHOUT ID
     file.link AS Note,
-    length(file.outlinks) AS Connections,
-    file.outlinks AS Outgoing
+    length(file.outlinks) AS Connections
+
 FROM
     !"Resources"
 LIMIT

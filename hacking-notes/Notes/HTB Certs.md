@@ -2,7 +2,7 @@
 aliases:
 tags:
   - "#MOC"
-banner: "![[htb-banner3.jpeg]]"
+banner: "![[htb-banner7.jpg]]"
 ---
 > [!INFO] HTB Certs
 > [[Hack The Box]] certifications are designed to validate practical, hands-on skills in cybersecurity. Unlike traditional exams that rely heavily on theory, these certifications focus on real-world scenarios inside dedicated lab environments. Each certification follows a challenge-based approach, where candidates must demonstrate problem-solving, technical expertise, and creativity to complete realistic objectives.

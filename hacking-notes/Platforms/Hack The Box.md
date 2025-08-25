@@ -5,7 +5,7 @@ tags:
   - Platform
   - MOC
 web: https://hackthebox.com
-banner: "![[htb-banner3.jpeg]]"
+banner: "![[htb-banner7.jpg]]"
 ---
 > [!INFO] Hack The Box
 > Hack The Box (HTB) is a cybersecurity platform that provides vulnerable machines and practical challenges to learn and train ethical hacking skills in a safe environment.
