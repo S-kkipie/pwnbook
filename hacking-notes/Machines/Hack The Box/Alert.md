@@ -1,6 +1,6 @@
 ---
 tags:
-  - Machine
+  - "#Machine"
 platform: "[[Hack The Box]]"
 web: https://app.hackthebox.com/machines/Alert
 difficulty:
@@ -9,26 +9,25 @@ banner: "![[htb-banner3.jpeg]]"
 status: Incomplete
 ---
 > [!INFO] Alert
->  #tutorial : Machine description.
 ^descripcion
 
 > [!FAQ]- Hints
-> #tutorial : Some help to solve this machine.
+
 ^hints
 # Reconnaissance
 
-> #tutorial : What information can be collected?
+
 
 # Vulnerability Analysis
 
-> #tutorial : What vulnerabilities exists?
+
 # Vulnerability exploitation
 
-> #tutorial : How to get access?
+
 
 # Privilege escalation
 
-> #tutorial : How to be root?
+
 
 # Flags
 - ##### Root Flag

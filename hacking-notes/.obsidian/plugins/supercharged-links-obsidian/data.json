@@ -83,30 +83,6 @@
       "selectBackground": true
     },
     {
-      "type": "path",
-      "name": "",
-      "value": "03 - Personas/",
-      "matchCaseSensitive": false,
-      "match": "contains",
-      "uid": "7a3d-8c9b",
-      "selectText": true,
-      "selectAppend": true,
-      "selectPrepend": true,
-      "selectBackground": true
-    },
-    {
-      "type": "path",
-      "name": "",
-      "value": "04 - Código/",
-      "matchCaseSensitive": false,
-      "match": "contains",
-      "uid": "9323-112a",
-      "selectText": true,
-      "selectAppend": true,
-      "selectPrepend": true,
-      "selectBackground": true
-    },
-    {
       "type": "tag",
       "name": "",
       "value": "Machine",

@@ -37,6 +37,36 @@
       }
     },
     {
+      "id": "f217d4c9-905a-47aa-a0ff-561d724c91bb",
+      "name": "Create HTB Module",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Resources/Templates/_htb module.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Notes/HTB - ACADEMY"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
       "id": "a7c141c9-0ead-459e-bc62-6d12d8e15b30",
       "name": "Create content",
       "type": "Template",

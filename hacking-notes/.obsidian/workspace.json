@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3094c2afaed8190c",
+        "id": "41768fba6e33ab9e",
         "type": "tabs",
         "children": [
           {
-            "id": "7837755c82e3fa24",
+            "id": "87ba20d3b83a4225",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Platforms/Hack The Box.md",
-                "mode": "source",
+                "file": "Notes/HTB - ACADEMY/Linux Fundamentals.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hack The Box"
+              "title": "Linux Fundamentals"
             }
           }
         ]
@@ -136,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Platforms/Hack The Box.md",
+                "file": "Notes/HTB - ACADEMY/Linux Fundamentals.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-file:_ -file:{{ -file:INICIO.canvas -file:excalidraw ",
@@ -150,7 +150,7 @@
                   "collapse-color-groups": false,
                   "colorGroups": [
                     {
-                      "query": "tag:#certificacion",
+                      "query": "tag:#Cert",
                       "color": {
                         "a": 1,
                         "rgb": 38655
@@ -221,7 +221,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Hack The Box"
+              "title": "Graph of Linux Fundamentals"
             }
           },
           {
@@ -284,11 +284,11 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "graph:Open graph view": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "obsidian-git:Open Git source control": false,
-      "graph:Open graph view": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
@@ -300,64 +300,65 @@
       "templater-obsidian:Templater": false,
       "homepage:Open homepage": false,
       "workspaces-plus:Manage workspaces": false,
-      "cmdr:Definir un concepto": false,
-      "cmdr:Crear la nota diaria": false,
-      "cmdr:Crear un contenido": false,
-      "cmdr:Crear un MOC": false,
-      "cmdr:Añadir un código": false,
       "cmdr:Crear writeup": false,
-      "cmdr:Hack The Box Machine": false
+      "cmdr:Writeup": false,
+      "cmdr:Define concept": false,
+      "cmdr:Diary note": false,
+      "cmdr:Make content": false,
+      "cmdr:Make a MOC": false,
+      "cmdr:Code": false,
+      "cmdr:Hack The Box Machine": false,
+      "cmdr:QuickAdd: Create HTB Module": false
     }
   },
   "active": "d3a780e6a546bee9",
   "lastOpenFiles": [
-    "Platforms/Hack The Box.md",
+    "Resources/Templates/_htb module.md",
+    "Notes/HTB - ACADEMY/Linux Fundamentals.md",
     "Machines/Hack The Box/Alert.md",
+    "Certifications/CREST CPSA CRT.md",
+    "Resources/Images/linux_fundamentals_banner.webp",
+    "Resources/Images/linux_fundamentals_banner.webp.crdownload",
+    "CREST CPSA/CRT.md",
+    "CREST CPSA",
+    "Certifications/AI-ML Pen.md",
+    "Ejemplo.canvas",
+    "Resources/Images/CREST-CPSA-CRT",
+    "Resources/Images/CREST-CPSA-CRT.crdownload",
+    "Resources/Images/Analista de Seguridad Profesional de CREST (CPSA) - CREST_files/insight.old.min.js",
+    "Resources/Images/Analista de Seguridad Profesional de CREST (CPSA) - CREST_files/insight.min.js",
+    "Resources/Images/Analista de Seguridad Profesional de CREST (CPSA) - CREST_files/js",
+    "Resources/Images/Analista de Seguridad Profesional de CREST (CPSA) - CREST_files/js(1)",
+    "Resources/Images/Analista de Seguridad Profesional de CREST (CPSA) - CREST_files/js(2)",
+    "Resources/Images/Analista de Seguridad Profesional de CREST (CPSA) - CREST_files/style.min.css",
+    "Resources/Images/Analista de Seguridad Profesional de CREST (CPSA) - CREST_files/2022-CREST-logo_Colour.png",
+    "Resources/Images/Analista de Seguridad Profesional de CREST (CPSA) - CREST_files/new-logo-1.webp",
+    "Resources/Images/Analista de Seguridad Profesional de CREST (CPSA) - CREST_files/search-grey-icon.svg",
+    "Resources/Images/Analista de Seguridad Profesional de CREST (CPSA) - CREST_files/single-chevron.svg",
+    "Resources/Images/Analista de Seguridad Profesional de CREST (CPSA) - CREST_files/arrow-up-grey.webp",
+    "Resources/Images/Analista de Seguridad Profesional de CREST (CPSA) - CREST_files/CREST-CPSA-badge.webp",
+    "Resources/Images/Analista de Seguridad Profesional de CREST (CPSA) - CREST_files/CREST-icon-logo.webp",
+    "Resources/Images/Analista de Seguridad Profesional de CREST (CPSA) - CREST_files/Members-exam-promo-graphic-landscape-website.webp",
+    "Resources/Images/Analista de Seguridad Profesional de CREST (CPSA) - CREST_files/icon1.svg",
+    "Machines/Hack The Box/asd.md",
+    "Notes/HTB - ACADEMY/asd.md",
     "Resources/Templates/_writeup/_hack the box/_hack the box.md",
-    "Resources/Templates/_code.md",
-    "Journal/2025-08-24.md",
-    "Notes/MOC.md",
+    "Notes/HTB Certs.md",
     "Notes/HTB Path.md",
     "Notes/HTB Module.md",
+    "Notes/Exploit.md",
     "Notes/CTF.md",
-    "Certifications/AI-ML Pen.md",
-    "Platforms/TryHackMe.md",
+    "Notes/MOC.md",
+    "Platforms/Hack The Box.md",
     "Control Panel.md",
     "Journal/2025-08-23.md",
+    "HTB CJCA.md",
+    "Journal/2025-08-24.md",
+    "Platforms/TryHackMe.md",
+    "Resources/Templates/_code.md",
     "Resources/Templates/_journal.md",
-    "Notes/Exploit.md",
     "\n1.md",
     "\n.md",
-    "Resources/Templates/_concept.md",
-    "Prompt Injection.md",
-    "Sensitive Information Disclosure.md",
-    "Over-reliance.md",
-    "Ejemplo.canvas",
-    "Obsidian Canvas.md",
-    "Certified AI/ML Pentester.md",
-    "Certified AI",
-    "Resources/Images/caimlpbanner.jpg",
-    "Resources/Images/caimlpbanner.jpg.crdownload",
-    "Resources/Images/cert-stamp-aiml-pro.png",
-    "C-AI/MLPen.md",
-    "C-AI",
-    "Certifications",
-    "Python.md",
-    "Machines/Hack The Box/Hack.md",
-    "Resources/Images/anything_banner2.jpg",
-    "Resources/Images/anything_banner2.jpg.crdownload",
-    "Resources/Images/anything_banner",
-    "Resources/Images/anything_banner.crdownload",
-    "Resources/Docs/A quick guide to LaTeX.pdf",
-    "Resources/Templates/_writeup/_ctf",
-    "Notes/HTB - ACADEMY",
-    "00 - Recursos/Diagramas/Canvas/INICIO.canvas",
-    "00 - Recursos/Imágenes/Concepto de VPN.png",
-    "00 - Recursos/Imágenes/Carpetas.png",
-    "Resources/Images/htb-banner4.png",
-    "Resources/Images/htb-banner3.jpeg",
-    "Resources/Images/htb-banner2.jpeg",
-    "00 - Recursos/Imágenes/Concepto de Base de Datos.png",
-    "00 - Recursos/Imágenes/qrcode2.png"
+    "00 - Recursos/Diagramas/Canvas/INICIO.canvas"
   ]
 }

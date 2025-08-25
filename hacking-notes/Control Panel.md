@@ -1,6 +1,20 @@
-# CTFs Activity
-## Last Machines
+# TO-DO
+```dataview
+TABLE WITHOUT ID
+    file.link As Name,
+    tags[0] AS Type
+FROM 
+	!"Resources"
+WHERE
+	contains(file.tags, "#TO-DO") or
+	status = "Incomplete"
+LIMIT
+	10
 
+```
+
+# Machines Activity
+## Last Machines
 ```dataview
 TABLE WITHOUT ID
 	file.link AS Machine,
@@ -15,7 +29,6 @@ SORT
 ```
 
 ## Pending Machines
-
 ```dataview
 TABLE WITHOUT ID
     platform AS Platform,
@@ -34,7 +47,8 @@ SORT
 # Journal Resume
 ```dataview
 TABLE WITHOUT ID
-    file.aliases[2] AS Nota,
+	file.link AS Note,
+    file.aliases[2] AS Date,
     description AS Description
 FROM
     "Journal"
@@ -44,7 +58,6 @@ SORT
     length(file.inlinks) DESC,
     file.link ASC
 ```
-
 
 # Notes Use
 
