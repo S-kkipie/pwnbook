@@ -3,7 +3,7 @@ tags:
   - "#Machine"
 platform: "[[Hack The Box]]"
 web: https://app.hackthebox.com/machines/Alert
-difficulty:
+difficulty: Easy
 autor:
 banner: "![[htb-banner7.jpg]]"
 status: Incomplete

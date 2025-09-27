@@ -9,7 +9,7 @@ banner: "![[cjca-banner.webp]]"
 > [!warning] I need to resume this, it's only a copy paste
 
 > [!INFO] [[Hack The Box]] Certified Junior Cybersecurity Associate (HTB CJCA)
-HTB Certified Junior Cybersecurity Associate (HTB CJCA) is a highly hands-on certification that assesses the candidates’ cybersecurity assessment skills. HTB Certified Junior Cybersecurity Associate holders demonstrate foundational technical competency across both offensive and defensive cybersecurity domains. They are equipped to identify common vulnerabilities, perform basic (post-)exploitation, and recognize potential security gaps. They are also capable of conducting SIEM-assisted security monitoring, analyzing network traffic and logs, and detecting intrusions. With hands-on experience in these areas and a hybrid skill set, they can assess and report on security issues in enterprise environments.
+[[Hack The Box|HTB]] Certified Junior Cybersecurity Associate is a highly hands-on certification that assesses the candidates’ cybersecurity assessment skills. [[HTB CJCA]] holders demonstrate foundational technical competency across both offensive and defensive cybersecurity domains. They are equipped to identify common vulnerabilities, perform basic (post-)exploitation, and recognize potential security gaps. They are also capable of conducting SIEM-assisted security monitoring, analyzing network traffic and logs, and detecting intrusions. With hands-on experience in these areas and a hybrid skill set, they can assess and report on security issues in enterprise environments.
 ^definition
 
 > [!tip] [[HTB CJCA]] PATH 

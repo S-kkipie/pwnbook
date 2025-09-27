@@ -1,9 +1,12 @@
 ---
 aliases:
+  - CREST Practitioner Security Analyst
 tags:
   - Cert
 banner: "![[Resources/Images/CREST-CPSA-CRT]]"
 ---
+> [!warning] I need to resume this, it's only a copy paste
+
 > [!INFO] CREST CPSA CRT
 The CREST Practitioner Security Analyst (CPSA) is an entry level exam that tests a candidate’s knowledge in assessing operating systems and common network services.  
   >

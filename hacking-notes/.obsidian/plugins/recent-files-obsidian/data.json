@@ -9,28 +9,116 @@
       "path": "Notes/HTB - ACADEMY/Paths/Junior Cybersecurity Analyst.md"
     },
     {
-      "basename": "HTB Path",
-      "path": "Notes/HTB Path.md"
+      "basename": "Footprinting",
+      "path": "Notes/HTB - ACADEMY/Modules/Footprinting.md"
+    },
+    {
+      "basename": "Introduction to Bash Scripting",
+      "path": "Notes/HTB - ACADEMY/Modules/Introduction to Bash Scripting.md"
     },
     {
       "basename": "Control Panel",
       "path": "Control Panel.md"
     },
     {
+      "basename": "_code",
+      "path": "Resources/Templates/_code.md"
+    },
+    {
+      "basename": "Introduction to Web Applications",
+      "path": "Notes/HTB - ACADEMY/Modules/Introduction to Web Applications.md"
+    },
+    {
       "basename": "HTB CJCA",
       "path": "Certifications/HTB CJCA.md"
+    },
+    {
+      "basename": "SOC Analyst Learning Path",
+      "path": "Certifications/SOC Analyst Learning Path.md"
+    },
+    {
+      "basename": "Introduction to Information Security",
+      "path": "Notes/HTB - ACADEMY/Modules/Introduction to Information Security.md"
+    },
+    {
+      "basename": "Web Requests",
+      "path": "Notes/HTB - ACADEMY/Modules/Web Requests.md"
+    },
+    {
+      "basename": "Network Foundations",
+      "path": "Notes/HTB - ACADEMY/Modules/Network Foundations.md"
+    },
+    {
+      "basename": "SOC Fundamentals",
+      "path": "Notes/HTB - ACADEMY/Modules/SOC Fundamentals.md"
+    },
+    {
+      "basename": "Expressway",
+      "path": "Machines/Hack The Box/Expressway.md"
+    },
+    {
+      "basename": "HTB Path",
+      "path": "Notes/HTB Path.md"
+    },
+    {
+      "basename": "AI-ML Pen",
+      "path": "Certifications/AI-ML Pen.md"
     },
     {
       "basename": "CREST CPSA CRT",
       "path": "Certifications/CREST CPSA CRT.md"
     },
     {
-      "basename": "CTF",
-      "path": "Notes/CTF.md"
-    },
-    {
       "basename": "Hack The Box",
       "path": "Platforms/Hack The Box.md"
+    },
+    {
+      "basename": "Alert",
+      "path": "Machines/Hack The Box/Alert.md"
+    },
+    {
+      "basename": "TryHackMe",
+      "path": "Platforms/TryHackMe.md"
+    },
+    {
+      "basename": "Lets Defend",
+      "path": "Platforms/Lets Defend.md"
+    },
+    {
+      "basename": "Pasted image 20250904153321",
+      "path": "Resources/Pasted image 20250904153321.png"
+    },
+    {
+      "basename": "Pasted image 20250901162044",
+      "path": "Resources/Images/Pasted image 20250901162044.png"
+    },
+    {
+      "basename": "linux_fundamentals_banner",
+      "path": "Resources/Images/linux_fundamentals_banner.webp"
+    },
+    {
+      "basename": "Prompt Injection",
+      "path": "Notes/Prompt Injection.md"
+    },
+    {
+      "basename": "2025-08-29",
+      "path": "Journal/2025-08-29.md"
+    },
+    {
+      "basename": "2025-08-25",
+      "path": "Journal/2025-08-25.md"
+    },
+    {
+      "basename": "2025-08-24",
+      "path": "Journal/2025-08-24.md"
+    },
+    {
+      "basename": "2025-08-23",
+      "path": "Journal/2025-08-23.md"
+    },
+    {
+      "basename": "CTF",
+      "path": "Notes/CTF.md"
     },
     {
       "basename": "Ejemplo",
@@ -57,32 +145,8 @@
       "path": "Resources/Templates/_writeup/_hack the box/_hack the box.md"
     },
     {
-      "basename": "Alert",
-      "path": "Machines/Hack The Box/Alert.md"
-    },
-    {
-      "basename": "AI-ML Pen",
-      "path": "Certifications/AI-ML Pen.md"
-    },
-    {
       "basename": "MOC",
       "path": "Notes/MOC.md"
-    },
-    {
-      "basename": "2025-08-23",
-      "path": "Journal/2025-08-23.md"
-    },
-    {
-      "basename": "2025-08-24",
-      "path": "Journal/2025-08-24.md"
-    },
-    {
-      "basename": "TryHackMe",
-      "path": "Platforms/TryHackMe.md"
-    },
-    {
-      "basename": "_code",
-      "path": "Resources/Templates/_code.md"
     },
     {
       "basename": "_journal",

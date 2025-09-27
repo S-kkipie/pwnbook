@@ -215,7 +215,7 @@
       "name": "Create script",
       "type": "Template",
       "command": true,
-      "templatePath": "00 - Recursos/Plantillas/_código.md",
+      "templatePath": "Resources/Templates/_code.md",
       "fileNameFormat": {
         "enabled": false,
         "format": ""

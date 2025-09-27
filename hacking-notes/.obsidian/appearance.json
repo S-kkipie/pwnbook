@@ -9,6 +9,6 @@
   ],
   "theme": "obsidian",
   "cssTheme": "Blue Topaz",
-  "interfaceFontFamily": "",
-  "textFontFamily": ""
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Inter"
 }

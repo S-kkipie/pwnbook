@@ -2,9 +2,9 @@
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "newFileLocation": "folder",
-  "newFileFolderPath": "Notas/Procesar",
+  "newFileFolderPath": "Notes/Process",
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "00 - Recursos",
+  "attachmentFolderPath": "Resources/Images",
   "userIgnoreFilters": [
     "Resources/Templates/",
     "Resources/Diagrams/"
