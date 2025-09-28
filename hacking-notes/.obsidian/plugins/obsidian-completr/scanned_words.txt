@@ -3541,6 +3541,7 @@ Executives
 Engagement
 Encouraging
 Enhancement
+Expressions
 subject
 seguridad
 scripting
@@ -5235,6 +5236,7 @@ Rewards
 Recognition
 Recommendations
 Reevaluate
+RegEx
 uso
 un
 usage

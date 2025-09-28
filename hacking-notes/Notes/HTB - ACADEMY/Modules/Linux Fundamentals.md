@@ -250,6 +250,7 @@ Let's dig into the `{sh icon}uname` command a bit more. If we type `{sh icon}
 
 > Practical part, I already do it. 
 
+# Workflow
 ## 7. Navigation
 Navigation is essential, like working with the mouse as a standard Windows user. With it, we move across the system and work in directories and with files, we need and want. Therefore, we use different commands and tools to print out information about a directory or a file and can use advanced options to optimize the output to our needs.
 
@@ -477,7 +478,7 @@ htb-student:x:1002:1002::/home/htb-student:/bin/bash
 
 As we can see now, the output no longer starts with root but is now sorted alphabetically.
 
-### Grep
+#### Grep
 
 In many cases, we will need to search for specific results that match patterns we define. One of the most commonly used tools for this purpose is grep, which provides a wide range of powerful features for pattern searching. For instance, we can use grep to search for users who have their default shell set to `/bin/bash`.
 
@@ -577,6 +578,134 @@ Skkippie@htb[/htb]$ cat /etc/passwd | grep -v "false\|nologin" | tr ":" " " | aw
 
 6
 ```
+
+## 13. Regular Expressions
+RegEx is available in many programming languages and tools, such as grep or sed, making it a versatile and powerful tool in a our toolkit.
+#### Grouping
+Among other things, regex offers us the possibility to group the desired search patterns. Basically, regex follows three different concepts, which are distinguished by the three different brackets:
+
+##### Grouping Operators
+
+|     | **Operators** | **Description**                                                                                                                                                             |
+| --- | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | `(a)`         | The round brackets are used to group parts of a regex. Within the brackets, you can define further patterns which should be processed together.                             |
+| 2   | `[a-z]`       | The square brackets are used to define character classes. Inside the brackets, you can specify a list of characters to search for.                                          |
+| 3   | `{1,10}`      | The curly brackets are used to define quantifiers. Inside the brackets, you can specify a number or a range that indicates how often a previous pattern should be repeated. |
+| 4   | `\|`          | Also called the OR operator and shows results when one of the two expressions matches                                                                                       |
+| 5   | `.*`          | Operates similarly to an AND operator by displaying results only when both expressions are present and match in the specified order                                         |
+
+#### OR operator
+`|`
+
+```shell-session ln:false
+cry0l1t3@htb:~$ grep -E "(my|false)" /etc/passwd
+
+lxd:x:105:65534::/var/lib/lxd/:/bin/false
+pollinate:x:109:1::/var/cache/pollinate:/bin/false
+mysql:x:116:120:MySQL Server,,:/nonexistent:/bin/false
+```
+
+#### AND operator
+`.*`
+```shell-session
+cry0l1t3@htb:~$ grep -E "(my.*false)" /etc/passwd
+
+mysql:x:116:120:MySQL Server,,:/nonexistent:/bin/false
+```
+
+//TODO learn more RegEx
+
+## 14. Permission Management
+In Linux, the permissions are like keys that control the access to files and directories. These permissions are assigned to users and groups.
+
+Each file have an owner and is associated with a group.
+
+To moving through a directory, the user must have `execute` permission.
+
+`execute` permission in DIRECTORIES only allows to move through the directory, the user can't modify, create or delete anything.
+
+To execute some file within the directory, the user needs `execute` permission on the file. To modify create and delete files within the directory, the user needs `write` permission on the directory.
+
+The whole permission system on Linux systems is based on the octal number system, and basically, there are three different types of permissions a file or directory can be assigned:
+
+- (`r`) - Read
+- (`w`) - Write
+- (`x`) - Execute
+
+The permissions can be set for the `owner`, `group`, and `others` like presented in the next example with their corresponding permissions.
+
+```shell-session ln:false
+cry0l1t3@htb[/htb]$ ls -l /etc/passwd
+
+- rwx rw- r--   1 root root 1641 May  4 23:42 /etc/passwd
+- --- --- ---   |  |    |    |   |__________|
+|  |   |   |    |  |    |    |        |_ Date
+|  |   |   |    |  |    |    |__________ File Size
+|  |   |   |    |  |    |_______________ Group
+|  |   |   |    |  |____________________ User
+|  |   |   |    |_______________________ Number of hard links
+|  |   |   |_ Permission of others (read)
+|  |   |_____ Permissions of the group (read, write)
+|  |_________ Permissions of the owner (read, write, execute)
+|____________ File type (- = File, d = Directory, l = Link, ... )
+```
+
+#### Change Permissions
+We can modify permissions using `chmod` command, permission group references (`u` - owner, `g` - Group, `o` - others, `a` - All users), and either a [+] or a [-] to add remove the designated permissions
+
+We can then apply `read` permissions for all users and see the result.
+
+```shell-session ln:false
+cry0l1t3@htb[/htb]$ chmod a+r shell && ls -l shell
+
+-rwxr-xr-x   1 cry0l1t3 htbteam 0 May  4 22:12 shell
+```
+
+We can also set the permissions for all other users to `read` only using the octal value assignment.
+
+```shell-session ln:false
+cry0l1t3@htb[/htb]$ chmod 754 shell && ls -l shell
+
+-rwxr-xr--   1 cry0l1t3 htbteam 0 May  4 22:12 shell
+```
+
+Let us look at all the representations associated with it to understand better how the permission assignment is calculated.
+
+```shell-session ln:false
+Binary Notation:                4 2 1  |  4 2 1  |  4 2 1
+----------------------------------------------------------
+Binary Representation:          1 1 1  |  1 0 1  |  1 0 0
+----------------------------------------------------------
+Octal Value:                      7    |    5    |    4
+----------------------------------------------------------
+Permission Representation:      r w x  |  r - x  |  r - -
+```
+
+#### Change Owner
+To change the owner and/or the group, we use `chown` command 
+
+```shell-session ln:false
+cry0l1t3@htb[/htb]$ chown <user>:<group> <file/directory>
+```
+
+In this example, "shell" can be replaced with any arbitrary file or folder.
+
+```shell-session ln:false
+cry0l1t3@htb[/htb]$ chown root:root shell && ls -l shell
+
+-rwxr-xr--   1 root root 0 May  4 22:12 shell
+```
+
+#### SUID & SGID / Sticky Bit
+Linux provides special permissions beyond the usual user and group settings: SUID, SGID, and the Sticky Bit.
+
+- SUID/SGID: When set on a file, they make a program run with the permissions of the file’s owner or group instead of the user running it. This is useful for specific system tasks but risky if misused, as it can allow unintended privilege escalation.
+    
+- Sticky Bit: Applied to a directory, it ensures only the file’s owner, the directory owner, or root can delete or rename files, protecting shared folders. Lowercase `t` means others have execute permission; uppercase `T` means they don’t.
+
+
+# System Management
+
 # References
 - [[Hack The Box]]
 - [[HTB Module]]

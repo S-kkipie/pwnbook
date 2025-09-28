@@ -239,6 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/HTB - ACADEMY/Modules/Linux Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +249,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Linux Fundamentals"
             }
           },
           {
@@ -257,11 +258,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/HTB - ACADEMY/Modules/Linux Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Linux Fundamentals"
             }
           },
           {
