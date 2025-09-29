@@ -301,6 +301,9 @@ arithmetic
 almost
 alphabetically
 applied
+assigned
+assignment
+arbitrary
 tags
 the
 tutorials
@@ -556,6 +559,7 @@ talk
 ten
 tabulate
 transforming
+toolkit
 Concept
 Certifications
 CPU
@@ -745,6 +749,7 @@ Comparison
 Condition
 Cut
 Column
+Change
 banner
 box
 both
@@ -944,6 +949,7 @@ burglar
 bolster
 begin
 better
+basically
 HTB
 Hack
 Herramientas
@@ -1533,6 +1539,8 @@ mechanisms
 mentioned
 match
 matches
+modify
+misused
 provides
 part
 practical
@@ -1874,6 +1882,7 @@ predefined
 possibility
 putting
 position
+previous
 lot
 learning
 la
@@ -2276,6 +2285,7 @@ opportunities
 overwhelmed
 opposite
 opens
+octal
 information
 its
 including
@@ -2969,6 +2979,9 @@ divided
 dealt
 desired
 disabled
+distinguished
+displaying
+designated
 It
 Intro
 IT
@@ -3365,6 +3378,9 @@ Accessing
 Anywhere
 Again
 Awk
+Among
+AND
+Applied
 Each
 Easy
 Escalada
@@ -3542,6 +3558,7 @@ Engagement
 Encouraging
 Enhancement
 Expressions
+Execute
 subject
 seguridad
 scripting
@@ -3917,6 +3934,9 @@ searching
 seems
 syntax
 substitute
+sed
+square
+similarly
 certifications
 cybersecurity
 career
@@ -4280,6 +4300,8 @@ change
 counting
 characters
 counted
+corresponding
+calculated
 your
 you
 yet
@@ -4555,6 +4577,7 @@ Translates
 Tier
 Trust
 Tail
+TODO
 Skill
 SOC
 SIEM
@@ -4750,6 +4773,9 @@ SNMP
 Sometimes
 Sort
 Sed
+SUID
+SGID
+Sticky
 Paths
 Python
 Primeros
@@ -5237,6 +5263,7 @@ Recognition
 Recommendations
 Reevaluate
 RegEx
+Read
 uso
 un
 usage
@@ -5403,6 +5430,8 @@ unusual
 upgrading
 uniting
 unsure
+usual
+uppercase
 quinas
 queries
 que
@@ -5519,6 +5548,7 @@ query
 question
 queried
 quick
+quantifiers
 Fundamentos
 Fundamentals
 Focused
@@ -5957,6 +5987,7 @@ engaged
 enthusiastic
 execution
 exclude
+expressions
 Linux
 LABS
 LLM
@@ -6102,6 +6133,7 @@ Like
 Leads
 Loops
 Less
+Lowercase
 Windows
 What
 While
@@ -6232,6 +6264,9 @@ Works
 WannaCry
 Weakens
 Whether
+Workflow
+Within
+Write
 nea
 natural
 no
@@ -6887,6 +6922,14 @@ redirected
 rarely
 replacement
 replacing
+regex
+round
+repeated
+references
+representations
+replaced
+risky
+rename
 vulnerabilidades
 vulnerable
 very
@@ -7024,6 +7067,7 @@ vigilance
 vector
 vigilant
 variables
+versatile
 web
 which
 world
@@ -7184,6 +7228,7 @@ watchtower
 win
 why
 weird
+whole
 DFIR
 Description
 DO
@@ -7368,6 +7413,7 @@ Detecting
 Departments
 Disclosure
 Define
+DIRECTORIES
 OS
 Output
 Over
@@ -7487,6 +7533,9 @@ Orchestration
 Once
 Offering
 OSINT
+Operators
+Operates
+Owner
 Vulnerabilidades
 Value
 Vault
@@ -7976,6 +8025,7 @@ Getaway
 Gain
 Guidelines
 Grep
+Grouping
 Usage
 USD
 Using
@@ -8509,6 +8559,8 @@ Bounty
 Benefits
 Bourne
 BASH
+Basically
+Bit
 journey
 jailbreaks
 jer

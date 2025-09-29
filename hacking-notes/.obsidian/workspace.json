@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/HTB - ACADEMY/Modules/Linux Fundamentals.md",
+                "file": "Notes/HTB - ACADEMY/Paths/Junior Cybersecurity Analyst.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux Fundamentals"
+              "title": "Junior Cybersecurity Analyst"
+            }
+          },
+          {
+            "id": "abbdd0bb06a50682",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/HTB - ACADEMY/Modules/Windows Fundamentals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Windows Fundamentals"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -56,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "windows banner",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -312,9 +327,12 @@
   },
   "active": "d3a780e6a546bee9",
   "lastOpenFiles": [
-    "Notes/HTB - ACADEMY/Modules/Linux Fundamentals.md",
+    "Resources/Images/windows_fundamentals_banner.webp",
     "Notes/HTB - ACADEMY/Paths/Junior Cybersecurity Analyst.md",
+    "Notes/HTB - ACADEMY/Modules/Windows Fundamentals.md",
     "Notes/HTB - ACADEMY/Modules/Footprinting.md",
+    "Notes/HTB - ACADEMY/Modules/Linux Fundamentals.md",
+    "Notes/HTB - ACADEMY/Modules/Introduction to Information Security.md",
     "Notes/HTB - ACADEMY/Modules/Introduction to Bash Scripting.md",
     "Control Panel.md",
     "Scripts/asd.md",
@@ -328,7 +346,6 @@
     "Notes/Process/Security Solutions.md",
     "Notes/Process/Introduction to Web Applications.md",
     "Notes/Process/Information Security Foundations.md",
-    "Notes/HTB - ACADEMY/Modules/Introduction to Information Security.md",
     "Notes/HTB - ACADEMY/Modules/Web Requests.md",
     "Notes/HTB - ACADEMY/Modules/Network Foundations.md",
     "Notes/HTB - ACADEMY/Modules/SOC Fundamentals.md",
@@ -347,8 +364,6 @@
     "Resources/Images/Pasted image 20250917124119.png",
     "Platforms/Hack The Box.md",
     "Machines/Hack The Box/Alert.md",
-    "Platforms/TryHackMe.md",
-    "Platforms/Lets Defend.md",
     "Resources/Images/letsdefend-social-banner.png.crdownload",
     "Resources/Docs/Web_Requests_Module_Cheat_Sheet.pdf",
     "Resources/Images/web-requests-banner.webp.crdownload",

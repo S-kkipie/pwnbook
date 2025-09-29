@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Linux Fundamentals",
-      "path": "Notes/HTB - ACADEMY/Modules/Linux Fundamentals.md"
+      "basename": "Windows Fundamentals",
+      "path": "Notes/HTB - ACADEMY/Modules/Windows Fundamentals.md"
     },
     {
       "basename": "Junior Cybersecurity Analyst",
@@ -11,6 +11,14 @@
     {
       "basename": "Footprinting",
       "path": "Notes/HTB - ACADEMY/Modules/Footprinting.md"
+    },
+    {
+      "basename": "Linux Fundamentals",
+      "path": "Notes/HTB - ACADEMY/Modules/Linux Fundamentals.md"
+    },
+    {
+      "basename": "Introduction to Information Security",
+      "path": "Notes/HTB - ACADEMY/Modules/Introduction to Information Security.md"
     },
     {
       "basename": "Introduction to Bash Scripting",
@@ -35,10 +43,6 @@
     {
       "basename": "SOC Analyst Learning Path",
       "path": "Certifications/SOC Analyst Learning Path.md"
-    },
-    {
-      "basename": "Introduction to Information Security",
-      "path": "Notes/HTB - ACADEMY/Modules/Introduction to Information Security.md"
     },
     {
       "basename": "Web Requests",
