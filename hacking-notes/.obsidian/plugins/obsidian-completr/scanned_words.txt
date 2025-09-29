@@ -750,6 +750,8 @@ Condition
 Cut
 Column
 Change
+Console
+Close
 banner
 box
 both
@@ -1289,6 +1291,7 @@ Managing
 MySQL
 MSSQL
 More
+MMC
 modules
 module
 menes
@@ -1541,6 +1544,7 @@ match
 matches
 modify
 misused
+movement
 provides
 part
 practical
@@ -2083,6 +2087,8 @@ locksmith
 likelihood
 last
 least
+lateral
+leveraged
 of
 on
 overflows
@@ -2982,6 +2988,7 @@ disabled
 distinguished
 displaying
 designated
+deploy
 It
 Intro
 IT
@@ -3937,6 +3944,7 @@ substitute
 sed
 square
 similarly
+sizes
 certifications
 cybersecurity
 career
@@ -4302,6 +4310,9 @@ characters
 counted
 corresponding
 calculated
+came
+compelte
+centralized
 your
 you
 yet
@@ -4578,6 +4589,7 @@ Tier
 Trust
 Tail
 TODO
+Task
 Skill
 SOC
 SIEM
@@ -4988,6 +5000,7 @@ Providing
 Programs
 Posture
 POP
+Put
 Job
 Jailbreaking
 Journal
@@ -5690,6 +5703,7 @@ Finding
 Follow
 Footprinting
 Filter
+Further
 esenciales
 en
 explotaci
@@ -5988,6 +6002,8 @@ enthusiastic
 execution
 exclude
 expressions
+everithing
+ease
 Linux
 LABS
 LLM
@@ -7229,6 +7245,8 @@ win
 why
 weird
 whole
+withouth
+workstations
 DFIR
 Description
 DO
@@ -7414,6 +7432,8 @@ Departments
 Disclosure
 Define
 DIRECTORIES
+Diving
+Deeper
 OS
 Output
 Over
@@ -7536,6 +7556,8 @@ OSINT
 Operators
 Operates
 Owner
+Operating
+Out
 Vulnerabilidades
 Value
 Vault
@@ -8675,6 +8697,7 @@ jL
 jWo
 jhh
 joining
+json
 XSS
 XX
 Xx

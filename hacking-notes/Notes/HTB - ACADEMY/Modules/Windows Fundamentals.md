@@ -38,7 +38,8 @@ status: Incomplete
 >[!tldr] Cheat Sheet
 
 # Introduction
-## 1. Section
+## 1. Introduction to Windows
+
 # Core of the Operating System
 
 # Working with services & processes

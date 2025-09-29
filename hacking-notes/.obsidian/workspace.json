@@ -325,11 +325,12 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "d3a780e6a546bee9",
+  "active": "abbdd0bb06a50682",
   "lastOpenFiles": [
+    "Notes/Prompt Injection.md",
+    "Notes/HTB - ACADEMY/Modules/Windows Fundamentals.md",
     "Resources/Images/windows_fundamentals_banner.webp",
     "Notes/HTB - ACADEMY/Paths/Junior Cybersecurity Analyst.md",
-    "Notes/HTB - ACADEMY/Modules/Windows Fundamentals.md",
     "Notes/HTB - ACADEMY/Modules/Footprinting.md",
     "Notes/HTB - ACADEMY/Modules/Linux Fundamentals.md",
     "Notes/HTB - ACADEMY/Modules/Introduction to Information Security.md",
@@ -361,7 +362,6 @@
     "Resources/Images/Pasted image 20250917141830.png",
     "Resources/Images/Pasted image 20250917141634.png",
     "Resources/Images/Pasted image 20250917141027.png",
-    "Resources/Images/Pasted image 20250917124119.png",
     "Platforms/Hack The Box.md",
     "Machines/Hack The Box/Alert.md",
     "Resources/Images/letsdefend-social-banner.png.crdownload",

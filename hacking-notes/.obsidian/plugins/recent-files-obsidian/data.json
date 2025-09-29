@@ -5,6 +5,10 @@
       "path": "Notes/HTB - ACADEMY/Modules/Windows Fundamentals.md"
     },
     {
+      "basename": "Prompt Injection",
+      "path": "Notes/Prompt Injection.md"
+    },
+    {
       "basename": "Junior Cybersecurity Analyst",
       "path": "Notes/HTB - ACADEMY/Paths/Junior Cybersecurity Analyst.md"
     },
@@ -99,10 +103,6 @@
     {
       "basename": "linux_fundamentals_banner",
       "path": "Resources/Images/linux_fundamentals_banner.webp"
-    },
-    {
-      "basename": "Prompt Injection",
-      "path": "Notes/Prompt Injection.md"
     },
     {
       "basename": "2025-08-29",
